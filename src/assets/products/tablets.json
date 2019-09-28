@@ -1,0 +1,46 @@
+[
+	{
+		"productId": 1,
+		"productName": "Chicken Cashew",
+		"productCode": "CHK-120",
+		"description": "Chicken curry with Cashew",
+		"price": 110,
+		"imageUrl": "assets/imgs/chicken-cashew.jpg",
+		"manufacturer": "Apple",
+		"ostype": "iOS",
+		"rating": 4
+	},
+	{
+		"productId": 2,
+		"productName": "Chicken Mughlai",
+		"productCode": "CHK-121",
+		"description": "Chicken Spicy Curry",
+		"price": 120,
+		"imageUrl": "assets/imgs/cknmug.jpg",
+		"manufacturer": "Apple",
+		"ostype": "iOS",
+		"rating": 3
+	},
+	{
+		"productId": 3,
+		"productName": "Paneer Butter Masala",
+		"productCode": "VEG-125",
+		"description": "Veg Item",
+		"price": 80,
+		"imageUrl": "assets/imgs/panner.jpg",
+		"manufacturer": "Samsung",
+		"ostype": "Android",
+		"rating": 4
+	},
+	{
+		"productId": 4,
+		"productName": "Green Salad",
+		"productCode": "VEG-126",
+		"description": "Veg Item",
+		"price": 70,
+		"imageUrl": "assets/imgs/salad.jpg",
+		"manufacturer": "Micromax",
+		"ostype": "Android",
+		"rating": 3
+	}
+]
